@@ -1,0 +1,56 @@
+body {
+    width: 570px;
+    margin: 0 auto;
+    font-family: 'poppins', sans-serif;
+}
+
+header, footer {
+    margin: 20px 0;
+    background-color: rgb(128, 139, 185) ;
+    box-shadow: 3px 3px 3px rgb(165, 165, 165);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.head {
+    display: flex;
+    padding: 10px;
+
+}
+
+img {
+    border-radius: 10px;
+    width: 90px;
+    height: 150px;
+    margin: 15px 5px;
+}
+
+h1 {
+    color: #fff;
+    margin: 60px;
+    
+}
+
+h3 {
+    border-bottom: 2px solid rgb(228, 225, 225);
+}
+
+.paragraph-one {
+    border-top: 2px solid rgb(228, 225, 225);
+    font-style: italic;
+    font-size: 14px;
+}
+
+.center-paragraph {
+    color: rgb(211, 255, 124);
+    text-align: center;
+    margin-top: 2px;
+
+}
+
+.copyright {
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    color: #fff;
+}
