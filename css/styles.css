@@ -21,17 +21,17 @@ header, footer {
 img {
     border-radius: 10px;
     width: 90px;
-    height: 150px;
+    height: 140px;
     margin: 15px 5px;
 }
 
 h1 {
     color: #fff;
     margin: 60px;
-    
 }
 
-h3 {
+
+h2 {
     border-bottom: 2px solid rgb(228, 225, 225);
 }
 
@@ -45,7 +45,10 @@ h3 {
     color: rgb(211, 255, 124);
     text-align: center;
     margin-top: 2px;
+}
 
+#currentdate{
+    color: blue;
 }
 
 .copyright {
